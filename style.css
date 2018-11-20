@@ -13,8 +13,7 @@
 .bars {
     background: #ebebeb;
     text-align: center;
-    width: 100%;
-    height: 30px;
+    width: 97%;
     padding: 30px;
     margin: 10px;
     clear: both;
@@ -24,7 +23,7 @@
     background: #ebebeb;
     width: 55%;
     text-align: center;
-    margin: 5px;
+    margin: 10px;
     padding: 30px;
     float: left;
 }
@@ -51,7 +50,7 @@
     width: 40%;
     height: 300px;
     text-align: center;
-    margin: 5px;
+    margin: 10px;
     padding: 30px;
     float: left;
 }
