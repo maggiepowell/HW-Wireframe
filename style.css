@@ -1,4 +1,4 @@
-body {
+.body {
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
     background: #777;
@@ -6,36 +6,22 @@ body {
     font-size: 18px;
 }
 
-Header {
+.bars {
     background: #ebebeb;
     text-align: center;
-    padding: 20px;
+    width: 1000px;
+    height: 30px;
+    padding: 50px;
+    margin: 10px;
 }
 
-Nav {
-    background: #ebebeb;  
-    text-align: center;
-    padding: 20px;
-  
-}
-
-Section {
+.box {
     background: #ebebeb;
     width: 495px;
-    padding: 20px;
     text-align: center;
-    height: 295px;
-}
-
-Aside {
-    background: #ebebeb;
-    width: 495px;
+    margin: 10px;
     padding: 20px;
-    text-align: center;
-    height: 295px;
-    float: right;
 }
-
 
 Article {
     color: #ebebeb;
@@ -45,27 +31,13 @@ Article {
 
 }
 
-h1 {
+.paragraph {
     color: #777;
     background: #ebebeb;
-    width: 495px;
-    padding: 20px;
+    margin: 10px;
+    padding: 25px;
     text-align: center;
+    display: inline;
 
 }
 
-p {
-    color: #777;
-    background: #ebebeb;
-    width: 495px;
-    padding: 52px;
-    text-align: center;
-
-}
-
-Footer {
-    background: #ebebeb;
-    padding: 20px;
-    text-align: center;
-
-}
